@@ -98,4 +98,4 @@ Sierra Leone is among the countries most vulnerable to climate change — rising
 ---
 
 ## 📬 Contact
- [LinkedIn]([https://linkedin.com/in/mamadujalloh](https://www.linkedin.com/in/mamadu-jalloh-bb650a349/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BxLTXwNYhThWnOCgLpm7obw%3D%3D))
+ [LinkedIn]([https://www.linkedin.com/in/mamadu-jalloh-bb650a349/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BxLTXwNYhThWnOCgLpm7obw%3D%3D])
