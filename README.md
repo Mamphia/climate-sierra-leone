@@ -91,11 +91,11 @@ python analysis.py
 
 ## 🌍 Context & Motivation
 
-This project directly extends my research internship at the **Sierra Leone Meteorological Agency** (Feb–Aug 2020), where I operated field sensors and modeled environmental signal data using MATLAB. This analysis scales that work with a full Python data science pipeline and broader historical dataset.
+This project directly extends my research internship at the **Sierra Leone Meteorological, where I operated field sensors and modeled environmental signal data using MATLAB. This analysis scales that work with a full Python data science pipeline and broader historical dataset.
 
 Sierra Leone is among the countries most vulnerable to climate change — rising temperatures, shifting rainfall patterns, and extreme weather events like the **2017 Freetown mudslides** (which killed over 1,000 people) make this analysis directly relevant to national planning and disaster preparedness.
 
 ---
 
 ## 📬 Contact
- [LinkedIn]([https://www.linkedin.com/in/mamadu-jalloh-bb650a349/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BxLTXwNYhThWnOCgLpm7obw%3D%3D])
+ [LinkedIn](https://www.linkedin.com/in/mamadu-jalloh-bb650a349/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BxLTXwNYhThWnOCgLpm7obw%3D%3D)
